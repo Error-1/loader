@@ -1,1 +1,1 @@
-print'loadstring has been changed'
+warn'loadstring has been changed'
